@@ -1,0 +1,1 @@
+palabras = ['uno','dos','tres']
